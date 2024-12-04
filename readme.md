@@ -106,13 +106,6 @@ Please create new server only for this database
 # 3. LICENSE
 This software was released under the MIT License, Pleease check at LICENSE.txt.
 
-## UPDATE
-2020:10/10 **Significant improvement**  
-2020:10/18 **Revised again**  
-2020:11/14 **Significant weight reduction**  
-2020:11/17 **Fixing a terrible mistake**
-
-
 ## Operating environment
 ### language
 Node.js
