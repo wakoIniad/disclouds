@@ -40,7 +40,7 @@ Please create new server only for this database
             }
         },
         token:"Your token is here",
-        server:"Your Server ID (This server id's server will be a database)"
+        server:"Your Server ID (The server will be used as a database)"
     });
 
     /**
