@@ -14,10 +14,10 @@
 
 # 2. How to use
 
-### First
+### At the biggining
 Please create new server only for this database
 
-### Second
+### Sample code
 <details><summary>Sample Code</summary><div>
 
 ```js
