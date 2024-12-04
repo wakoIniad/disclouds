@@ -117,7 +117,7 @@ This software was released under the MIT License, Pleease check at LICENSE.txt.
 ### language
 Node.js
 ### Dependencies
-discord.js (very old version)
+discord.js (v12)
 
 ## About defects etc :email:
 Contact
