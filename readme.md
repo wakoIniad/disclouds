@@ -1,4 +1,5 @@
 ※中学か高校の前半に作ったもの複製です
+Discordのメッセージにデータを保存すれば無料で容量無制限という考えで作ったものの、規約違反の可能性（過負荷）があるので使えません。
 
 # 1. Why use discloud
 **By using discord, You can manage the data directly without using your strage**     
