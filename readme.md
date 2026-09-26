@@ -1,5 +1,4 @@
 ※中学か高校の前半に作ったもの複製です
-英語はたぶん短文でないものはGoogle翻訳しています。
 
 # 1. Why use discloud
 **By using discord, You can manage the data directly without using your strage**     
