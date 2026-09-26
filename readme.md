@@ -114,7 +114,3 @@ This software was released under the MIT License, Pleease check at LICENSE.txt.
 Node.js
 ### Dependencies
 discord.js (v12)
-
-## About defects etc :email:
-Contact
-" wada.iniad@gmail.com "
